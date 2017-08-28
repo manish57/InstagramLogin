@@ -9,8 +9,8 @@ var express = require('express')
   , methodOverride = require('method-override')
   , session = require('express-session');
 
-var INSTAGRAM_CLIENT_ID = "41cdd64b18d14f7d8cfb0a064125bc71";
-var INSTAGRAM_CLIENT_SECRET = "e2fea5d2278e48e384328c85db8eb551";
+var INSTAGRAM_CLIENT_ID = "<client_id>";
+var INSTAGRAM_CLIENT_SECRET = "<client_secret>";
 
 
 // Passport session setup.
